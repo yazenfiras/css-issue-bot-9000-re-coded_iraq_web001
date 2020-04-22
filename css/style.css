@@ -14,7 +14,11 @@ h2 {
 }
 
 .completed {
+<<<<<<< HEAD
   font-size: 12px;
+=======
+  font-family:Helvetica;
+>>>>>>> 8acc1d54881daee7b3a6c4c18174a5339d90441a
 }
 
 #tasks .completed {
